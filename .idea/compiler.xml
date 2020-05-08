@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="20200428-eureka-7083" />
+        <module name="20200428-eureka-7082" />
+        <module name="20200428-eureka-7081" />
+        <module name="20200427-springcloud-eureka-management" />
+        <module name="20200427-springcloud-mapper" />
+        <module name="20200428-springcloud-provider8083" />
+        <module name="20200505-springcloud-hytrix" />
+        <module name="20200505-springcloud-provider-hytrix" />
+        <module name="20200428-springcloud-provider8082" />
+        <module name="20200507-springcloud-config-client" />
+        <module name="20200427-springcloud-service" />
+        <module name="20200507-springcloud-config-server" />
+        <module name="20200427-springcloud-provider" />
+        <module name="20200427-springcloud-model" />
+        <module name="20200505-springcloud-feign" />
+        <module name="20200505-springcloud-api" />
+        <module name="20200427-springcloud-consumer" />
+        <module name="20200429-springcloud-consumer-ribbon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="20200427-springcloud-eureka-management" target="1.5" />
+      <module name="20200428-springcloud-eureka-management" target="1.5" />
+      <module name="20200505-springcloud-hytrix" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
